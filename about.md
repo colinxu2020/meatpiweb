@@ -4,4 +4,5 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+Meatpi官方网站，Meatpi由Meatpi开发团队维护，本网站由Colinxu2020维护。
+友情链接：[williamwei的网站](https://g9mee.csb.app/)。
