@@ -87,8 +87,8 @@ gitalk:
 google_analytics:
 
 utteranc:
-  repo: colinxu2020/meatpiweb# Your github repo path, also see: https://utteranc.es
-  issue-term: pathname
+  repo: "colinxu2020/meatpiweb"# Your github repo path, also see: https://utteranc.es
+  issue-term: "pathname"
   
 
 #
